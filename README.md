@@ -78,9 +78,3 @@ The project includes:
 - Confidence interval calculations
 - Practical significance evaluation
 - Visualization of key metrics
-
-## Contributing
-Feel free to fork the repository and submit pull requests for any improvements.
-
-## License
-This project is open-source and available under the MIT License.
